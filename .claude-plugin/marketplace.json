@@ -1,0 +1,16 @@
+{
+  "name": "commit-claude-plugin",
+  "owner": {
+    "name": "Vitaliy"
+  },
+  "description": "Marketplace for the python-commit-messages Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "python-commit-messages",
+      "source": "./",
+      "description": "Generate and review Conventional Commits-style commit messages for Python projects.",
+      "version": "1.0.0",
+      "displayName": "Python Commit Messages"
+    }
+  ]
+}

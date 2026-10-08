@@ -1,0 +1,11 @@
+{
+  "name": "python-commit-messages",
+  "displayName": "Python Commit Messages",
+  "version": "1.0.0",
+  "description": "Generate and review Conventional Commits-style commit messages for Python projects.",
+  "author": {
+    "name": "Vitaliy"
+  },
+  "license": "MIT",
+  "keywords": ["python", "git", "commit", "conventional-commits"]
+}
